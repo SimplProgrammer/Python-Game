@@ -1,4 +1,4 @@
-# Python-Game
+# Python-Game by Borna
 
 Hello there.
 This is my first time using Git.
