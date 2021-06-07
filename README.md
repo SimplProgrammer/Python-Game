@@ -1,4 +1,4 @@
-# Python-Game by Borna
+# Dungeon Sweepers by Borna
 
 Hello there.
 This is my first time using Git.
